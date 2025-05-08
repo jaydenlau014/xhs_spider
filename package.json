@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "jsdom": "^26.1.0"
+  },
+  "name": "spider_xhs",
+  "version": "1.0.0",
+  "description": "<p align=\"center\">   <a href=\"https://github.com/cv-cat/Spider_XHS\" target=\"_blank\" align=\"center\" alt=\"Go to XHS_Spider Website\">     <picture>       <img width=\"220\" src=\"https://github.com/user-attachments/assets/b817a5d2-4ca6-49e9-b7b1-efb07a4fb325\" alt=\"Spider_XHS logo\">     </picture>   </a> </p>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cv-cat/Spider_XHS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cv-cat/Spider_XHS/issues"
+  },
+  "homepage": "https://github.com/cv-cat/Spider_XHS#readme"
+}
